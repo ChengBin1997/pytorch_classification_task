@@ -1,0 +1,11 @@
+{
+    "arch":"densenet",
+    "depth":100,
+    "growthRate":12,
+    "train_batch":64,
+    "epochs":300,
+    "milestones":[
+        150,
+        225
+    ]
+}
